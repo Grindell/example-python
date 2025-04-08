@@ -460,13 +460,13 @@ if "user" in data and "profile" in data["user"]:
 
 ## 2. 🧱 Функции и модули
 
-```
 <details>
 
-<summary>🔹🔸 Вложенные структуры</summary>
+<summary>🔸 Объявление и вызов функций (def)</summary>
 Объявление и вызов функций (def)
 
 </details> 
+
 Аргументы и значения по умолчанию
 
 Возврат значений (return)
